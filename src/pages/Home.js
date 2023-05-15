@@ -30,7 +30,8 @@ const Home = () => {
         }}
         transition={{ duration: 1 }}
       >
-        <font>FullStack</font> Developer and <font>DSA King</font> 
+        <font>FullStack</font> Developer and 
+        <a class="hell" href="https://www.leetcode.com/dsaking"><font> DSA King</font></a> 
       </motion.div>
     </div>
   );
